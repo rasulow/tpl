@@ -1,0 +1,58 @@
+* {
+    color: #212135;
+    text-transform: unset !important;
+    letter-spacing: normal;
+    padding: 0;
+    font-weight: 300;
+}
+
+.report-btn {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.business-name {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+}
+
+.business-view {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    align-self: center;
+  }
+
+.business-subtitle {
+    font-size: 16px;
+    line-height: 16px;
+    color: #333333;
+    margin-top: 10px
+}
+
+.super-sub-title {
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 700;
+    margin-top: 10px
+}
+
+.business-description {
+    font-size: 18px;
+    line-height: 20px;
+    color: #333333;
+    margin-top: 10px
+}
+
+.additional-info-key {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.additional-info-value {
+    font-size: 14px;
+    line-height: 14px;
+}

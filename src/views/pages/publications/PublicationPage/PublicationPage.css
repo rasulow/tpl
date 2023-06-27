@@ -1,0 +1,125 @@
+* {
+    color: #212135;
+    letter-spacing: normal;
+    font-weight: 300;
+    text-transform: unset !important;
+  }
+  .publication-name {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 700;
+  }
+  
+  .publication-price {
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 700;
+    color: #409DBA;
+  }
+  
+  .publication-view {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    align-self: center;
+
+  }
+  
+  .publication-location {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  
+  .publication-comment {
+    font-size: 18px;
+    line-height: 18px;
+  }
+  
+  .publication-description {
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 20px
+  }
+  
+  .key-style {
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+    width: 50%;
+  }
+  
+  .value-style {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  
+  
+  .horizontal-buttons {
+    width: 49%;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+    font-weight: 700;
+    letter-spacing: normal;
+    text-transform: unset !important;
+  }
+  
+  .similar-card-subtitle {
+      font-size: 16px;
+      line-height: 16px;
+      color: #333333;
+      margin-top: 15px;
+    }
+  
+    .similar-card-title {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 20px;
+      margin-top: 5px;
+    }
+  
+    .similar-card-price {
+      font-size: 18;
+      line-height: 18px;
+      font-weight: 700;
+      color: #409DBA;
+      margin-top: 5px;
+    }
+
+.comment-username {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700;
+  color: #212135;
+}
+
+.comment-text {
+  font-size: 18px;
+  line-height: 23.5px;
+  color: #212135;
+  font-weight: 300;
+  margin-top: 5px
+}
+
+.comment-style {
+  margin-top: auto;
+}
+
+.card-priority {
+  padding: 3px 5px 3px 5px;
+  border-radius: 3px;
+}
+
+.card-priority-text {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.vip-style {
+  background-color: #7951F9;
+  padding: 3px 5px 3px 5px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #FFFFFF;
+}

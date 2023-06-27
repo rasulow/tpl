@@ -1,0 +1,161 @@
+.outlined-card-title {
+  padding: 0px;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: normal;
+}
+
+.outlined-card-checkbox {
+  margin: 0;
+  height: 20px;
+  width: 20px;
+}
+
+.horizontal {
+  display: inline-flex;
+  width: 100%;
+}
+
+.horizontal-img {
+  height: 100%;
+  width: 30%;
+}
+
+.horizontal-titles {
+  height: 150px;
+  width: 70%;
+  padding: 10px 10px 10px 15px;
+}
+
+.small-card-title {
+  font-size: 20px;
+  line-height: 20px;
+  padding: 0;
+  color: #212135;
+  letter-spacing: normal;
+  font-weight: 700;
+}
+
+.delete-button {
+  background-color: #EB5757 !important;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.sm-bolder-title {
+  padding: 0;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 300;
+  letter-spacing: normal;
+}
+
+.xs-bolder-title {
+  padding: 0;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: normal;
+}
+
+.card-price {
+  padding: 0;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700;
+  letter-spacing: normal;
+  color: #409DBA;
+}
+
+.count-btn {
+  height: 30px;
+  width: 30px;
+  background-color: #E3E3E3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.kwitansiya-title {
+  padding: 20px;
+  font-size: 25px;
+  line-height: 25px;
+  font-weight: 700;
+  letter-spacing: normal;
+  color: #212135;
+}
+
+.kwitansiya-small-titles {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 300;
+  letter-spacing: normal;
+  color: #212135;
+}
+
+.kwitansiya-bolder-titles {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700;
+  letter-spacing: normal;
+  color: #212135;
+}
+
+.checkout-titles {
+  padding: 0;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 700;
+  color: #212135;
+  letter-spacing: normal;
+}
+
+.input-borders {
+  width: 100%;
+  height: 50px;
+  border-radius: 3px;
+  border: 1px solid #E8E8E8;
+  margin: 10px 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 15px 18px 15px;
+}
+.input-styles {
+  width: 100%;
+  border: none;
+  outline: none;
+  color: #A2A2A2;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: normal;
+}
+
+.textareas-div-style {
+  width: 100%;
+  height: 120px;
+  border-radius: 3px;
+  border: 1px solid #E8E8E8;
+  margin: 10px 0 0 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 15px 15px 15px;
+}
+
+.textarea-styles {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  color: #A2A2A2;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: normal;
+}

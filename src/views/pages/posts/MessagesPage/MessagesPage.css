@@ -1,0 +1,37 @@
+.media-img {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    z-index: 1;
+    border-radius: 5px;
+  }
+  
+  .card-name {
+    padding: 0;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    color: #212135;
+    width: 90%;
+    height: 14px; /* adjust the height based on your text size */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }
+  
+  .card-date {
+    font-size: 14px;
+    line-height: 14px;
+    color: #212135;
+    font-weight: 300;
+  }
+  
+  .card-view {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    color: #212135;
+    align-self: center;
+  }

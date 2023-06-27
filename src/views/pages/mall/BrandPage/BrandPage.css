@@ -1,0 +1,48 @@
+.brand-name {
+    font-size: 30px;
+    line-height: 30px;
+    color: #212135;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.card-subtitle {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    color: #333333;
+    margin-top: 15px;
+    letter-spacing: normal;
+  }
+
+  .card-title {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #212135;
+    margin-top: 5px;
+    letter-spacing: normal;
+    height: 22px; /* adjust the height based on your text size */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }
+
+  .card-price {
+    font-size: 18;
+    line-height: 18px;
+    font-weight: 700;
+    color: #409DBA;
+    margin-top: 5px;
+    letter-spacing: normal;
+  }
+
+  .to-basket-btn-style {
+    margin-top: 10px;
+    text-transform: unset !important;
+    color: #FFFFFF;
+    letter-spacing: normal;
+    font-size: 15px;
+    line-height: 15px
+  }

@@ -1,0 +1,138 @@
+.media-img {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    z-index: 1;
+    border-radius: 5px;
+  }
+  .media-icon {
+    top: 40%;
+    left: 45%;
+    position: absolute;
+    z-index: 99;
+    align-items: center;
+    color: white;
+    height: 32px;
+    width: 32px
+  }
+  
+  .dark-div {
+    position: absolute;
+    background-color: black;
+    top: 0;
+    width: 100%;
+    height: 330px;
+    z-index: 10;
+    opacity: 74%; /* 74% in production */
+    text-align: center;
+    align-items: center;
+  }
+  
+  .card-name {
+    padding: 0;
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    color: #212135;
+    width: 90%;
+    height: 15px; /* adjust the height based on your text size */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }
+  
+  .card-date {
+    font-size: 14px;
+    line-height: 14px;
+    color: #212135;
+    font-weight: 300;
+  }
+  
+  .card-view {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    color: #212135;
+    align-self: center;
+  }
+  
+  .card-channel {
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 700;
+    color: #409DBA
+  }
+  
+  .card-priority-div {
+    width: 60px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: #FABB18;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card-priority-name {
+    font-size: 12px;
+    line-height: 12px;
+    color: #212135;
+    font-weight: 700
+  }
+  
+  .video-name {
+    font-size: 20px;
+    line-height: 20px;
+    color: #212135;
+    font-weight: 700;
+    width: 95%;
+    word-wrap: break-word;
+  }
+  
+  .video-date {
+    font-size: 14px;
+    line-height: 14px;
+    color: #212135;
+    font-weight: 300;
+  }
+  
+  .video-channel {
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: 700;
+    color: #409DBA;
+    cursor: pointer
+  }
+  
+  .video-priority-div {
+    width: 60px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: #FABB18;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    line-height: 12px;
+    color: #212135;
+    font-weight: 700;
+    margin-left: 10px
+  }
+  
+  .video-description-style {
+    font-size: 20px;
+    line-height: 20px;
+    color: #333333;
+    font-weight: 300;
+    margin-top: 20px;
+  }
+  
+  .card-view {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 700;
+    color: #212135;
+    align-self: center;
+  }

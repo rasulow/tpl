@@ -1,0 +1,225 @@
+
+.tabs-item {
+    text-transform: unset !important;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0px;
+    height: 100%;
+    padding: 0;
+    margin-right: 30px;
+    white-space: nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .v-tab {
+    min-width: unset;
+  }
+.tabs-item::before {
+  background-color: transparent !important;
+}
+
+.logout_btn {
+    align-items: center;
+    justify-content: center;
+    background-color: #CB3131;
+    border-radius: 3px;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-transform: unset !important;
+    letter-spacing: normal;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 8px;
+}
+
+.bilidiris_gos_btn {
+    align-items: center;
+    justify-content: center;
+    background-color: #212135;
+    border-radius: 3px;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-transform: unset !important;
+    letter-spacing: normal;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 8px;
+    margin-right: 5px;
+    display: block;
+}
+
+.bilidiris_gos_btn_neg {
+  display: none;
+}
+
+
+
+  .edilmeli-tolegler-btn {
+    background-color: #212135;
+    color: #FFFFFF;
+    text-transform: unset !important;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: normal;
+  }
+
+  .tolegler-taryhy-btn {
+    background-color: #CB3131;
+    color: #FFFFFF;
+    text-transform: unset !important;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: normal;
+  }
+
+
+ .info-pay1 {
+  padding: 0;
+  color: #EB5757;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 300;
+  letter-spacing: normal;
+  margin-bottom: 2.5px;
+ }
+
+ .info-pay2 {
+  padding: 0;
+  color: #EB5757;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: normal;
+  margin-top: 2.5px;
+ }
+
+ .info-pay1-green {
+  padding: 0;
+  color: #219653;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 300;
+  letter-spacing: normal;
+  margin-bottom: 2.5px;
+ }
+
+ .info-pay2-green {
+  padding: 0;
+  color: #219653;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  letter-spacing: normal;
+  margin-top: 2.5px;
+ }
+
+ .custom-badge-red {
+  height: 10px;
+  width: 10px;
+  border-radius: 100%;
+  background-color: #EB5757;
+  align-self: center;
+  margin-left: 5px;
+ }
+
+ .custom-badge-green {
+  height: 10px;
+  width: 10px;
+  border-radius: 100%;
+  background-color: #219653;
+  align-self: center;
+  margin-left: 5px;
+ }
+
+ .arassala-btn {
+  text-transform: unset !important;
+  letter-spacing: normal;
+  color: #EB5757;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+ }
+
+ .v-virtual-scroll__item {
+  position: unset;
+ }
+
+ .avatar-titles {
+  padding: 0;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 700;
+  color: #212135;
+  letter-spacing: normal;
+}
+
+.bordered-input {
+  padding: 10px;
+  width: 100%;
+  height: 50px;
+  border: 1px solid #E8E8E8;
+  border-radius: 3px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  color: #212135;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+
+.card {
+  border-radius: 5px;
+  cursor: pointer
+}
+
+.card-location {
+  font-size: 16px;
+  line-height: 16px;
+  color: #333333;
+  font-weight: 300;
+  margin-top: 15px;
+}
+
+.card-name {
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+
+.card-description {
+  font-size: 16px;
+  line-height: 16px;
+  color: #333333;
+  font-weight: 300;
+  margin-top: 5px;
+}
+
+.card-price {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700;
+  color: #409DBA;
+  margin-top: 10px;
+}
+
+.card-priority {
+width: 100%;
+height: 25px;
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+padding: 2px;
+}
+
+.card-priority-text {
+font-size: 14px;
+font-weight: 700;
+}
